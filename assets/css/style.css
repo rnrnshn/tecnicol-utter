@@ -478,7 +478,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url(../img/hero-bg-2.jpg) top center;
+  background: url(../img/hero-bg-2-2.jpg) top center;
   background-size: cover;
   overflow: hidden;
   position: relative;
@@ -1522,14 +1522,14 @@ h6 {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #f58634;
+  background: #201e1e;
   padding: 0 0 25px 0;
   color: #eee;
   font-size: 16px;
 }
 
 #footer .footer-top {
-  background: #201e1e;
+  background: #ef7d00;
   padding: 60px 0 30px 0;
 }
 
@@ -1562,7 +1562,7 @@ h6 {
 
 #footer .footer-top .social-links a {
   display: inline-block;
-  background: #ef7d00;
+  background: #df3d00;
   color: #fff;
   line-height: 1;
   margin-right: 4px;
@@ -1581,7 +1581,7 @@ h6 {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #df3d00;
+  background: #201e1e;
   color: #fff;
 }
 
@@ -1592,7 +1592,7 @@ h6 {
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
-  border-bottom: 2px solid #ef7d00;
+  border-bottom: 2px solid #ffffff;
 }
 
 #footer .footer-top .footer-links {
@@ -1607,12 +1607,12 @@ h6 {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 5px;
-  color: #ef7d00;
+  color: #ffffff;
   font-size: 18px;
 }
 
 #footer .footer-top .footer-links ul li {
-  border-bottom: 1px solid #201e1e;
+  /* border-bottom: 1px solid #201e1e; */
   padding: 10px 0;
 }
 
@@ -1667,11 +1667,11 @@ h6 {
 }
 
 #footer a{
-  color: #201e1e;
+  color: #f58634;;
 }
 
 #footer a:hover {
-  color: #df3d00;
+  color: #eecf22;
 }
 #footer .credits {
   text-align: center;
