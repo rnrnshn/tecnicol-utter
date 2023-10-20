@@ -1,7 +1,7 @@
 /**
-* Template Name: TheEvent
+*  Name: TheEvent
 * Updated: Sep 18 2023 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
+*  URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
@@ -197,8 +197,9 @@
         spaceBetween: 20
       },
       992: {
-        slidesPerView: 5,
-        spaceBetween: 20
+        slidesPerView: 4,
+        spaceBetween: 10
+
       }
     }
   });

@@ -1174,8 +1174,8 @@ url("./fonts/bootstrap-icons.woff?2820a3852bdb9a5832199cc61cec4e65") format("wof
 .bi-sort-up-alt::before { content: "\f57a"; }
 .bi-sort-up::before { content: "\f57b"; }
 .bi-soundwave::before { content: "\f57c"; }
-.bi-speaker-fill::before { content: "\f57d"; }
-.bi-speaker::before { content: "\f57e"; }
+.bi-services-fill::before { content: "\f57d"; }
+.bi-services::before { content: "\f57e"; }
 .bi-speedometer::before { content: "\f57f"; }
 .bi-speedometer2::before { content: "\f580"; }
 .bi-spellcheck::before { content: "\f581"; }
