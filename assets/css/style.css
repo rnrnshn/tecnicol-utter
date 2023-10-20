@@ -643,7 +643,7 @@ h6 {
 # About Section
 --------------------------------------------------------------*/
 #about {
-  background: url("../img/about-bg.jpg");
+  background: url("../img/about-bg-2.jpg");
   background-size: cover;
   overflow: hidden;
   position: relative;
@@ -692,7 +692,7 @@ h6 {
 }
 
 /*--------------------------------------------------------------
-# Speakers Section
+# Service Section
 --------------------------------------------------------------*/
 #services {
   padding: 60px 0 30px 0;
